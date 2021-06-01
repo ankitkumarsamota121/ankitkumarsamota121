@@ -21,5 +21,5 @@ I'm Ankit Samota, a student developer who specializes in building (and occasiona
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankitkumarsamota121&include_all_commits=true&show_icons=true&theme=tokyonight" alt="Ankit's github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ankitkumarsamota121&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="Ankit's github stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarsamota121&layout=compact&hide=jupyter%20notebook,c%2B%2B&theme=tokyonight" />
