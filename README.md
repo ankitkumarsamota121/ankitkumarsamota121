@@ -19,7 +19,7 @@ I'm Ankit Samota, a student developer who specializes in building (and occasiona
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 <a href="https://github.com/ankitkumarsamota121">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitkumarsamota121&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"          alt="Ankit's github stats"/>
