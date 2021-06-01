@@ -33,7 +33,7 @@ I'm Ankit Samota, a student developer who specializes in building (and occasiona
    <a href="https://github.com/ankitkumarsamota121">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumarsamota121&theme=tokyonight" alt="Ankit's streak stats" />&nbsp; &nbsp;
   </a>
-  <a href="https://github.com/ankitkumarsamota121/project-erbil">
+<!--   <a href="https://github.com/ankitkumarsamota121/project-erbil">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumarsamota121&repo=project-erbil&theme=tokyonight" />
-  </a>
+  </a> -->
 </p>
