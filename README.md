@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitkumarsamota121&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarsamota121&layout=compact&hide=jupyter%20notebook,cpp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarsamota121&layout=compact&hide=jupyter%20notebook,cplusplus)
