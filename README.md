@@ -21,12 +21,19 @@ I'm Ankit Samota, a student developer who specializes in building (and occasiona
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
-<a href="https://github.com/ankitkumarsamota121">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumarsamota121&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"          alt="Ankit's github stats"/>
-</a>
-<a href="https://github.com/ankitkumarsamota121">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarsamota121&layout=compact&hide=jupyter%20notebook,c%2B%2B&theme=tokyonight" />
-</a>
-<a href="https://github.com/ankitkumarsamota121/project-erbil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumarsamota121&repo=project-erbil&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://github.com/ankitkumarsamota121">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ankitkumarsamota121&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="Ankit's github stats"/>
+  </a>
+  <a href="https://github.com/ankitkumarsamota121">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarsamota121&layout=compact&hide=jupyter%20notebook,c%2B%2B&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+   <a href="https://github.com/ankitkumarsamota121">
+    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumarsamota121&theme=tokyonight" alt="Ankit's streak stats" />&nbsp; &nbsp;
+  </a>
+  <a href="https://github.com/ankitkumarsamota121/project-erbil">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkumarsamota121&repo=project-erbil&theme=tokyonight" />
+  </a>
+</p>
