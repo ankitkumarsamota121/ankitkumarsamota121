@@ -2,7 +2,7 @@
 
 I'm Ankit Samota, a student developer who specializes in building (and occasionally designing) modern and performant web applications.
 
-- 🔭 I’m currently working on [Elixir](https://github.com/purplepotion/Elixir)
+- 🔭 I’m currently working on [project-florence](https://github.com/ankitkumarsamota121/project-florence)
 - 🌱 I’m currently learning SQL and PostgreSQL.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
