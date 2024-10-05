@@ -1,12 +1,12 @@
 ### Hi there, I'm [Ankit!](https://asamota.com) 👋
 
-I'm Ankit Samota, a student developer who specializes in building (and occasionally designing) modern and performant web applications.
+I'm Ankit Samota, an SDE at Amazon who specializes in building modern and performant web applications.
 
-- 🔭 I’m currently working on [project-florence](https://github.com/ankitkumarsamota121/project-florence)
-- 🌱 I’m currently learning SQL and PostgreSQL.
+<!-- - 🔭 I’m currently working on [project-florence](https://github.com/ankitkumarsamota121/project-florence) -->
+- 🌱 I’m currently learning how to build large-scale distributed system.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything [here](https://github.com/ankitkumarsamota121/ankitkumarsamota121/issues)
+<!-- - 💬 Ask me about anything [here](https://github.com/ankitkumarsamota121/ankitkumarsamota121/issues) -->
 - 📫 How to reach me: [Ankit Samota](mailto:ankitkumarsamota121@gmail.com)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
